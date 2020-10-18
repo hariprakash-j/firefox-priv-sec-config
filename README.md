@@ -1,6 +1,4 @@
-# This is a user.js file with recommended configuration for Firefox listed on privacytools.io
-
-## Note
+# Firefox user.js
 
 - user.js is the file that firefox useds to set configuration flags which can be generally accessed through typing about:config in the url bar
 - It is an automated way to set the flags recomended by https://privacytools.io, they have great documentation explaining the flags and their uses, please check them out.
